@@ -15,6 +15,6 @@ Open the project with Eclipse, navigate to *Stockpreme\src\stockUI*.
 Run **LoginMenu.java**.
 
 ## Using the Application
-The document **Stockpreme - Documentation.pdf** explains the details of the project's development in exhaustive detail. Feel free to refere to this document as needed.
+The document **Stockpreme - Documentation.pdf** explains the details of the project's development in exhaustive detail. Feel free to refer to this document as needed.
 
 You will however need to login as an admin to be able to fully use the application. A demo admin account has been made with the username **username** and the password **Password@123!**.
