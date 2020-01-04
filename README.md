@@ -9,8 +9,7 @@ You will first need to clone the repository to your local machine:
 git clone https://github.com/theRealShrishM/stockpreme.git
 ```
 
-Then you will need Java and the Eclipse IDE installed.
+Note: You will need Java and the Eclipse IDE installed.
 
 Open the project with Eclipse, navigate to *Stockpreme\src\stockUI*.
-
 Run **LoginMenu.java**.
